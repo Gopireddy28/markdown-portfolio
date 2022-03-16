@@ -1,2 +1,2 @@
 this image taken from desktop
-![image](https://Users//CHAITHANYA//Pictures//Screenshots
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
