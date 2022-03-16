@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+this image taken from desktop
+![image](https://Users//CHAITHANYA//Pictures//Screenshots
